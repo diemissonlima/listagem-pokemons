@@ -103,7 +103,7 @@ main .cartao-pokemon .tipo {
 }
 
 .fogo {
-	background-color: #ee8130;
+	background-color: #ff4422;
 }
 
 .agua {
@@ -120,6 +120,18 @@ main .cartao-pokemon .tipo {
 
 .normal {
     background-color: #aaaa99;
+}
+
+.eletrico {
+    background-color: #ffcc33;
+}
+
+.terra {
+    background-color: #ddbb55;
+}
+
+.fada {
+    background-color: #ee99ee;
 }
 
 main .descricao {
